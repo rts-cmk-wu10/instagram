@@ -1,0 +1,16 @@
+/* src/InstagramLogin.module.css */
+.instagram-login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #fafafa;
+  }
+  
+  .instagram-login h1 {
+    font-size: 2.5rem;
+    color: #385185;
+    margin-bottom: 30px;
+  }
